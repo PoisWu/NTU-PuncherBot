@@ -1,0 +1,7 @@
+[account]
+username = "YOUR USERNAME"
+password = "YOUR PASSWORD"
+
+[telegram]
+chat_id = "CHATID"
+chatbot_token = "CHATBOTTOKEN"
